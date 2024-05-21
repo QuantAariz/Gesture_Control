@@ -1,11 +1,3 @@
-//Arduino Gesture Control Robot
-//Reciver Circuit 
-//Created BY PHOTON VIBERS:
-//You need to install the required libraries before uploading the code.
-//To install the libraries first download the library from here https://github.com/nRF24/RF24 then go to sketch > include Library > ADD .ZIP File > Select the downloaded
-// libary's Zip file and you're done now. You can upload the the sketch now.
-// For more details you can contact me here 
-
 
 #include<SPI.h>
 #include<nRF24L01.h>
